@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Dandesaint
-- 🌱 I’m currently learning ... HTML & CSS and JavaScript
+- 🌱 I’m currently learning ... HTML & CSS and JavaScript and working on the 100 days of code challenege.
 - 💞️ I’m looking to collaborate on ... Not sure yet!
 
 <!---
